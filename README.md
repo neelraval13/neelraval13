@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Neel Raval, welcome to my GitHub Account
+My name is Neel Raval, welcome to my GitHub Account.
 
 <!--
 **neelraval13/neelraval13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
