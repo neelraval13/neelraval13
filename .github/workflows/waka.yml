@@ -1,0 +1,50 @@
+# ═══════════════════════════════════════════════════════════════════
+#  Injects your weekly WakaTime coding stats between the
+#    <!--START_SECTION:waka--> ... <!--END_SECTION:waka-->
+#  markers in README.md.
+#
+#  Setup (one-time):
+#    1. Sign up at https://wakatime.com (free)
+#    2. Install the WakaTime extension in Zed
+#         → https://zed.dev/extensions?query=wakatime
+#       Paste your API key when prompted.
+#    3. On wakatime.com → Settings → Account → "Display code time
+#       publicly" — turn ON.
+#    4. Add your API key as a repo secret:
+#         GitHub repo → Settings → Secrets and variables → Actions
+#         → New repository secret
+#         Name:  WAKATIME_API_KEY
+#         Value: <your key from wakatime.com/settings/api-key>
+#    5. Commit this file. Run once manually from the Actions tab.
+#
+#  After the first run, your README will display real coding-language
+#  breakdowns. Updates daily at 00:00 UTC.
+# ═══════════════════════════════════════════════════════════════════
+
+name: WakaTime Weekly Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Update README with this week's WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TITLE: "False"
+          BLOCKS: "░▒▓█"
+          CODE_LANG: "txt"
+          TIME_RANGE: "last_7_days"
+          SHOW_TIME: "True"
+          SHOW_TOTAL: "True"
+          SHOW_MASKED_TIME: "False"
+          STOP_AT_OTHER: "True"
+          COMMIT_MESSAGE: "chore(readme): update WakaTime weekly stats"
