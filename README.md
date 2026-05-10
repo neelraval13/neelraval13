@@ -166,19 +166,19 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 <summary><h2 align="center">🚀 Featured Projects</h2></summary>
 
 <p align="center">
-  <a href="https://github.com/neelraval13/flexius">
-    <img width="380" alt="Flexius" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=flexius&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+  <a href="https://github.com/neelraval13/FLEXIUS">
+    <img width="380" alt="Flexius" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=FLEXIUS&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
-  <a href="https://github.com/neelraval13/instagram-reel-analyzer">
-    <img width="380" alt="Instagram Reel Analyzer" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=instagram-reel-analyzer&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+  <a href="https://github.com/neelraval13/Resume-Advisor">
+    <img width="380" alt="Jogen — Resume Advisor" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=Resume-Advisor&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/neelraval13/sanjeevni">
-    <img width="380" alt="Sanjeevni" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=sanjeevni&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+  <a href="https://github.com/neelraval13/Sanjeevani">
+    <img width="380" alt="Sanjeevni" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=Sanjeevani&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
-  <a href="https://github.com/neelraval13/jogen">
-    <img width="380" alt="Jogen" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=jogen&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+  <a href="https://github.com/neelraval13/instagram-reel-analyzer">
+    <img width="380" alt="Instagram Reel Analyzer" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=instagram-reel-analyzer&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
 </p>
 
