@@ -129,10 +129,10 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" alt="Neel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=neelraval13&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+    <img height="180" alt="Neel's GitHub stats" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=neelraval13&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelraval13&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&text_color=FFFFFF">
+    <img height="180" alt="Top languages" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=neelraval13&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&text_color=FFFFFF">
   </a>
 </p>
 
@@ -167,18 +167,18 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 
 <p align="center">
   <a href="https://github.com/neelraval13/FLEXIUS">
-    <img width="380" alt="Flexius" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=FLEXIUS&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+    <img width="380" alt="Flexius" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=neelraval13&repo=FLEXIUS&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
   <a href="https://github.com/neelraval13/Resume-Advisor">
-    <img width="380" alt="Jogen — Resume Advisor" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=Resume-Advisor&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+    <img width="380" alt="Jogen — Resume Advisor" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=neelraval13&repo=Resume-Advisor&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/neelraval13/Sanjeevani">
-    <img width="380" alt="Sanjeevni" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=Sanjeevani&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+    <img width="380" alt="Sanjeevni" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=neelraval13&repo=Sanjeevani&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
   <a href="https://github.com/neelraval13/instagram-reel-analyzer">
-    <img width="380" alt="Instagram Reel Analyzer" src="https://github-readme-stats.vercel.app/api/pin/?username=neelraval13&repo=instagram-reel-analyzer&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
+    <img width="380" alt="Instagram Reel Analyzer" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=neelraval13&repo=instagram-reel-analyzer&theme=react&hide_border=true&bg_color=1F222E&title_color=F724A9&icon_color=0ABDC6&text_color=FFFFFF">
   </a>
 </p>
 
