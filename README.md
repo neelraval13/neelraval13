@@ -154,9 +154,13 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 <h2 align="center">⏱️ This Week I Spent My Time On</h2>
 
 <!--START_SECTION:waka-->
-<!-- The waka-readme Action will inject your weekly coding stats here every 24h.
-     Until the Action runs the first time, this section is empty. See setup notes
-     in .github/workflows/waka.yml. -->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br>
