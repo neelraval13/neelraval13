@@ -156,13 +156,13 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 2 mins
+Total Time: 1 hr 5 mins
 
-TypeScript     26 mins               ██████████▒░░░░░░░░░░░░░░   41.90 %
-Python         24 mins               ██████████░░░░░░░░░░░░░░░   39.98 %
-shell script   10 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
-Docker         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-YAML           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript     26 mins               ██████████░░░░░░░░░░░░░░░   40.61 %
+Python         26 mins               ██████████░░░░░░░░░░░░░░░   40.39 %
+shell script   10 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Docker         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+YAML           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
