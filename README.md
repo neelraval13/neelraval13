@@ -156,12 +156,13 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 13 mins
+Total Time: 10 hrs 1 min
 
-Markdown       3 hrs 59 mins         ███████████████████░░░░░░   76.43 %
-TypeScript     1 hr 11 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-shell script   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JavaScript     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown       5 hrs 38 mins         ██████████████░░░░░░░░░░░   56.34 %
+TypeScript     4 hrs 14 mins         ██████████▓░░░░░░░░░░░░░░   42.26 %
+JSON           6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+shell script   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
