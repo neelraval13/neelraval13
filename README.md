@@ -158,8 +158,8 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 ```txt
 Total Time: 8 hrs 5 mins
 
-TypeScript     6 hrs 39 mins         ███████████████████░░░░░░   75.78 %
-Other          41 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+TypeScript     6 hrs 39 mins         █████████████████▓░░░░░░░   70.95 %
+Other          1 hr 17 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
 ```
 
 <!--END_SECTION:waka-->
