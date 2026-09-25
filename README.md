@@ -156,10 +156,9 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 35 mins
+Total Time: 2 hrs 7 mins
 
-TypeScript     3 hrs 59 mins         ███████████████░░░░░░░░░░   60.23 %
-Other          2 hrs 2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.71 %
+Other          2 hrs 2 mins          ████████████▒░░░░░░░░░░░░   48.92 %
 ```
 
 <!--END_SECTION:waka-->
