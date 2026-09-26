@@ -156,9 +156,9 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 7 mins
+Total Time: 1 hr 39 mins
 
-Other          2 hrs 2 mins          ████████████▒░░░░░░░░░░░░   48.92 %
+Other            2 hrs 2 mins          █████████████▓░░░░░░░░░░░   55.12 %
 ```
 
 <!--END_SECTION:waka-->
