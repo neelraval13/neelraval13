@@ -158,7 +158,7 @@ Location :&nbsp;&nbsp;Bengaluru, 🇮🇳
 ```txt
 Total Time: 4 mins
 
-Other        1 hr 38 mins          ████████████████████████░   95.49 %
+Other        59 mins               ███████████████████████▒░   92.74 %
 ```
 
 <!--END_SECTION:waka-->
